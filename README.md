@@ -1,0 +1,2 @@
+# sandromancuso
+Diamond Kata
